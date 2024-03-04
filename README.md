@@ -1,4 +1,4 @@
-# Temperature-Dependent Steel Plastic Material Properties Generator
+# Temperature-Dependent Steel Plastic Material Properties Generator (Post-Fire)
 
 ## Introduction
 
